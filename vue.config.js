@@ -1,3 +1,3 @@
 module.exports = {
-	publicPath: '/vue-validatable/dist/'
+	publicPath: '/vue-validatable/'
 };
